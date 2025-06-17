@@ -1,77 +1,67 @@
-# AAPL Ad Account Rental Policy for META  
-**Draft Date:** 17/06/2025 | 4:56:00 PM  
+# **AAPL Ad Account Rental Policy for Meta**  
+**Effective Date:** 17 June 2025  
+
+## **1. Introduction**  
+Aafnai Ad Private Limited (AAPL) is a legally registered entity under **Nepal’s Company Act 2063**, operating under the **Ministry of Industry, Commerce, and Supplies, Office of the Company Registrar**.  
+
+This policy governs the rental of Meta ad accounts through AAPL, establishing clear terms, responsibilities, and compliance requirements. All tenants must adhere to **Meta’s advertising policies** and **Nepal’s legal framework** governing advertisements. In the event of a conflict between Meta’s guidelines and Nepal’s laws, **Nepalese law shall take precedence**.  
 
 ---
 
-## 1. Introduction  
-This policy outlines the terms and conditions for renting a Meta ad account from **Aafnai Ad Private Limited (AAPL)**. AAPL is a legally registered company under the **Company Act 2063** at the **Ministry of Industry, Commerce and Supplies, Office of the Company Registrar**.
-
-The purpose of this policy is to define the permitted and prohibited uses of AAPL’s Meta ad accounts, establish the responsibilities of both parties, and ensure strict adherence to ethical advertising practices. The tenant agrees to comply with **Meta’s advertising policies** and the **laws of Nepal**.
-
-**In the event of any conflict between Meta’s advertising policies and the applicable laws of Nepal, the Law of Nepal shall prevail and take precedence.**
-
----
-
-## 2. Rental Terms  
-- The rental fee is discussed prior to account access and is **payable in advance**.  
-- The rented ad account must be used **exclusively for advertising purposes**.  
-- All advertisements must comply with **Meta’s advertising policies** and the **Advertising Laws of Nepal [Advertisement Law, 2019]**.  
-- The tenant is **responsible for all ad spending** and must ensure payment capital are in place.
+## **2. Rental Terms**  
+- The rental fee shall be **negotiated and agreed upon prior to account access** and must be **paid in advance**.  
+- Rented ad accounts are **strictly for advertising purposes**.  
+- All advertisements must comply with **Meta’s Advertising Standards** and **Nepal’s Advertisement Act, 2019**.  
+- The tenant is **responsible for all advertising expenses**, ensuring necessary payment funds are in place.  
 
 ---
 
-## 3. Usage Guidelines  
+## **3. Compliance Requirements**  
 
-### a. Legal Compliance  
-The tenant must strictly adhere to the **laws of Nepal**. Advertising activities are restricted in the following areas:  
-- Products banned by the government for production, distribution, sale, or use  
-- Gambling and unauthorized betting  
-- Content considered offensive or inappropriate  
-- Weapons, explosives, or related products  
-- Prescription-only medicines  
-- Products requiring prior approval that have not received such approvals  
-- Products or services prohibited from advertising under prevailing laws  
-- Content contradicting the curriculum of schools and universities (excluding educational materials)  
-- Content promoting superstition or blind faith
-
-  Except of these basic compliances , there is a detailed rules and guidelines provided by the Law Commission which can be referred to
-  using this link [Advertisement Act 2019](https://github.com/Aafnai-com/Ad_account_rental/blob/d4ad7c1951753d9e3f9661af0abb72ee175a6c95/AdvertisementAct2019.pdf) and refer to the meta policy by using this link [Facebook Business Help: Ad Account Policies](https://www.facebook.com/business/help/488043719226449?id=434838534925385). It is always advised to preced with Law of the land before the law of the platform.
+### **a. Adherence to Nepalese Law**  
+The tenant is required to comply with Nepal’s advertising regulations, including but not limited to:  
+- Prohibition of gambling and unauthorized betting.  
+- Restrictions on the advertisement of government-banned products (e.g., weapons, explosives, prescription-only medicines).  
+- No misleading, deceptive, or offensive advertisements.  
+- No promotions contradicting Nepal’s educational curriculum (excluding approved academic material).  
+- Restrictions against promoting superstition or blind faith.  
 
 
 
-### b. Meta Policy Compliance  
-Prohibited actions include:  
-- Misleading, deceptive, or false advertising  
-- Promotion of products/services that violate Meta's community standards  
-- Any attempt to change account ownership or gain unauthorized admin access  
+### **b. Compliance with Meta’s Advertising Standards**  
+Tenants must ensure advertisements comply with Meta’s policies, including:  
+- Prohibition of deceptive, misleading, or false claims.  
+- No promotion of prohibited products/services under Meta’s community standards.  
+- No unauthorized alterations to account ownership or administrative access.  
 
-### c. Liability  
-- If the tenant engages in restricted advertising or violates policy, they will bear **full legal and financial responsibility**.  
-- **Aafnai Ad Private Limited is not liable** for any penalties, bans, or legal consequences resulting from non-compliant advertising.  
-- Policy violations may result in **immediate termination** of account access. Any refunds, if applicable, will be handled in accordance with the law and subject to negotiation.
+Failure to comply may result in **immediate account suspension** and further actions as deemed necessary.  
+
+For further reference, tenants should review:  
+- **[Nepal’s Advertisement Act, 2019](https://github.com/Aafnai-com/Ad_account_rental/blob/d4ad7c1951753d9e3f9661af0abb72ee175a6c95/AdvertisementAct2019.pdf)**  
+- **[Meta’s Ad Policies](https://www.facebook.com/business/help/488043719226449?id=434838534925385)**  
+
+If any discrepancies arise, **Nepalese law shall override platform-specific regulations**.  
 
 ---
 
-## 4. Privacy & Security  
-- Account credentials must be kept **strictly confidential**.  
-- Unauthorized sharing, tampering, or misuse of the account will result in **suspension** and may incur **penalties**.
+## **4. Liability**  
+The tenant **bears full responsibility** for any violations of Meta’s guidelines or Nepalese law.  **AAPL shall not be held liable** for legal actions, penalties, or account bans arising due to non-compliant advertisements. Violations may result in **immediate termination of account access** without compensation.  
 
 ---
 
-## 5. Termination & Refunds  
-- No refunds will be issued for **voluntary early termination** by the tenant.  
-- In the case of **unavoidable or unforeseen circumstances**, partial refunds may be considered at AAPL’s discretion, subject to a **minimal administrative charge**.  
-- If the tenant terminates rental due to unforeseen circumstances, a refund will be considered with minimal charge.
+## **5. Privacy & Security**  
+ The tenant must maintain **strict confidentiality** regarding account credentials.  Unauthorized sharing, misuse, or tampering with the account may lead to **suspension and penalties**.  
 
 ---
 
-## 6. Policy Updates and Revisions  
-This rental policy is subject to change at any time at the sole discretion of **Aafnai Ad Private Limited (AAPL)**. Any updates or amendments will be communicated to existing tenants through official channels, and continued use of the rented ad account after notification will constitute acceptance of the revised terms.
-
-Tenants are advised to review the policy periodically to stay informed about their rights and responsibilities under the most current version.
+## **6. Termination & Refunds**  
+No refunds shall be granted for **voluntary early termination** by the tenant.  In cases of **unavoidable or unforeseen circumstances**, AAPL may **consider partial refunds**, subject to administrative deductions.  
 
 ---
 
+## **7. Policy Updates & Revisions**  
+AAPL reserves the right to **amend or modify** this policy as necessary. Any updates will be communicated through official channels. Continued use of the rented ad account after policy changes constitutes **acceptance of the revised terms**.  
 
+Tenants are advised to periodically review this document to ensure compliance with the latest policy updates.  
 
-
+---
