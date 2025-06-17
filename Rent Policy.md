@@ -1,4 +1,7 @@
-# **AAPL Ad Account Rental Policy for Meta**  
+<div align="center">
+  <h1>Ad Account Rental Policy for Meta</h1>
+</div>
+
 **Effective Date:** 17 June 2025  
 
 ## **1. Introduction**  
