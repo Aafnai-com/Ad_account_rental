@@ -58,7 +58,7 @@ The tenant **bears full responsibility** for any violations of Meta’s guidelin
 ---
 
 ## **6. Termination & Refunds**  
-No refunds shall be granted for **voluntary early termination** by the tenant.  In cases of **unavoidable or unforeseen circumstances**, AAPL may **consider partial refunds**, subject to administrative deductions.  
+Refunds shall be granted for **voluntary early termination** by the tenant with minimal administrative charges.  In cases of **unavoidable or unforeseen circumstances**, AAPL may **consider refunds**, subject to administrative deductions. The refunds may take upto 2 days if the funds are already allocated depending on circumstances.  
 
 ---
 
@@ -68,3 +68,5 @@ AAPL reserves the right to **amend or modify** this policy as necessary. Any upd
 Tenants are advised to periodically review this document to ensure compliance with the latest policy updates.  
 
 ---
+
+### Usage of our service will confirm that the tenant accepts the rules and policies discussed above. 
