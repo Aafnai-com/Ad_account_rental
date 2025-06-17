@@ -16,14 +16,14 @@ The purpose of this policy is to define the permitted and prohibited uses of AAP
 - The rental fee is discussed prior to account access and is **payable in advance**.  
 - The rented ad account must be used **exclusively for advertising purposes**.  
 - All advertisements must comply with **Meta’s advertising policies** and the **Advertising Laws of Nepal [Advertisement Law, 2019]**.  
-- The renter is **responsible for all ad spending** and must ensure valid payment methods are in place.
+- The tenant is **responsible for all ad spending** and must ensure payment capital are in place.
 
 ---
 
 ## 3. Usage Guidelines  
 
 ### a. Legal Compliance  
-The renter must strictly adhere to the **laws of Nepal**. Advertising activities are restricted in the following areas:  
+The tenant must strictly adhere to the **laws of Nepal**. Advertising activities are restricted in the following areas:  
 - Products banned by the government for production, distribution, sale, or use  
 - Gambling and unauthorized betting  
 - Content considered offensive or inappropriate  
@@ -32,7 +32,12 @@ The renter must strictly adhere to the **laws of Nepal**. Advertising activities
 - Products requiring prior approval that have not received such approvals  
 - Products or services prohibited from advertising under prevailing laws  
 - Content contradicting the curriculum of schools and universities (excluding educational materials)  
-- Content promoting superstition or blind faith  
+- Content promoting superstition or blind faith
+
+  Except of these basic compliances , there is a detailed rules and guidelines provided by the Law Commission which can be referred to
+  using this link [Advertisement Act 2019](https://github.com/Aafnai-com/Ad_account_rental/blob/d4ad7c1951753d9e3f9661af0abb72ee175a6c95/AdvertisementAct2019.pdf) and refer to the meta policy by using this link [Facebook Business Help: Ad Account Policies](https://www.facebook.com/business/help/488043719226449?id=434838534925385). It is always advised to preced with Law of the land before the law of the platform.
+
+
 
 ### b. Meta Policy Compliance  
 Prohibited actions include:  
@@ -41,7 +46,7 @@ Prohibited actions include:
 - Any attempt to change account ownership or gain unauthorized admin access  
 
 ### c. Liability  
-- If the renter engages in restricted advertising or violates policy, they will bear **full legal and financial responsibility**.  
+- If the tenant engages in restricted advertising or violates policy, they will bear **full legal and financial responsibility**.  
 - **Aafnai Ad Private Limited is not liable** for any penalties, bans, or legal consequences resulting from non-compliant advertising.  
 - Policy violations may result in **immediate termination** of account access. Any refunds, if applicable, will be handled in accordance with the law and subject to negotiation.
 
@@ -54,8 +59,19 @@ Prohibited actions include:
 ---
 
 ## 5. Termination & Refunds  
-- No refunds will be issued for **voluntary early termination** by the renter.  
+- No refunds will be issued for **voluntary early termination** by the tenant.  
 - In the case of **unavoidable or unforeseen circumstances**, partial refunds may be considered at AAPL’s discretion, subject to a **minimal administrative charge**.  
 - If the tenant terminates rental due to unforeseen circumstances, a refund will be considered with minimal charge.
 
 ---
+
+## 6. Policy Updates and Revisions  
+This rental policy is subject to change at any time at the sole discretion of **Aafnai Ad Private Limited (AAPL)**. Any updates or amendments will be communicated to existing tenants through official channels, and continued use of the rented ad account after notification will constitute acceptance of the revised terms.
+
+Tenants are advised to review the policy periodically to stay informed about their rights and responsibilities under the most current version.
+
+---
+
+
+
+
